@@ -48,7 +48,8 @@
                 "flash_layout",
                 "HSE_VALUE=16000000",
                 "USE_HAL_DRIVER",
-                "USE_FULL_LL_DRIVER"
+                "USE_FULL_LL_DRIVER",
+                "USE_DAISYSP_LGPL"
             ],
             "compilerPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\9 2020-q2-update\\bin\\arm-none-eabi-g++.exe",
             "cStandard": "gnu11",
